@@ -1,0 +1,12 @@
+```
+  .git
+  __pycache__
+  *.pyc
+  *.log
+  .venv
+  venv
+  *.swp
+  database.sqlite3
+  private_logs.txt
+
+```
